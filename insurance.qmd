@@ -1,0 +1,58 @@
+---
+title: "Insurance"
+format: html
+---
+
+# Liability Coverage {#s-UC-liability}
+
+The University of California has purchased an Unmanned Aircraft System Liability Policy. This policy has a total of \$5 Mil limit including Personal Injury.
+
+Coverage is automatic for UAS activity that meet the following criteria:
+
+- Flight operations are conducted on behalf and sanctioned by the University of California.
+- Aircraft weight under 55 lbs (at time of takeoff)
+- Flight operations are within Visual Line of Sight
+- Flight operations are below 400 ft above ground level.
+- Flight operations must be conducted within the United States.
+
+
+Any UAS activity that do not meet the above criteria or operate outside the above criteria must be reported to and approved by the insurance underwriter in order to be covered. 
+
+## Personally Owned Unmanned Aircraft Used for University Business {#ss-personally-owned-UAS-coverage}
+The University of California has extended their UAS liability policy to enable coverage of UAS owned by UC students, staff or faculty used for University Business, including research. Coverage is contingent on compliance with the policy and procedures on UAS usage. This coverage is not intended to cover student organizations or 3rd Party vendors or contractors. 
+
+## Coverage for Campus Police {#ss-campus-police-coverage}
+The University of California has extended their UAS liability policy to enable coverage of UAS by Campus Police. All coverage is contingent on the UAS activity being sanctioned by the UC.
+
+Any UAS activity that is not approved by a Designated Local Authority or Systemwide Designated UAS Authority is not covered by this liability insurance.
+
+# Physical Damage Coverage {#s-UC-physical-damage}
+
+Physical damage to Unmanned Aircraft Systems (UAS) registered with the UC Center of Excellence on UAS Safety is provided by a physical damage policy from the University’s captive insurance company, Fiat Lux Risk and Insurance Company.
+
+-	Coverage applies in flight only when an approved flight plan is filed in accordance with UC UAS Policy, which includes the UC Drone web app or other means of compliance.
+-	Coverage applies to Unmanned Aircraft Systems  not in flight, but only if the Unmanned Aircraft Systems are registered with the UC Center of Excellence on UAS Safety at the time of the loss.
+- The policy limit per occurrence is $100,000 for UAS. Policy conditions and the scheduled value of the Unmanned Aircraft System may limit recovery. Unmanned Aircraft Systems are covered at present value not replacement cost. Depreciation does apply to claims for Unmanned Aircraft Systems.
+-	Unmanned Aircraft Systems with values greater than $100,000 can be endorsed to the policy.
+-	The UAS Physical Damage policy does not cover damage to payload or cargo; submit payload/cargo losses to the UC’s property policy.
+- A $1,000 deductible applies per loss. If an Unmanned Aircraft System loss results in damage to payload/cargo, the deductible is pro-rated between the policies.
+-	In the event of a loss, please report to campus risk management.  
+
+This physical damage coverage does not extend to personally owned Unmanned Aircraft Systems used for University Business.  Only Unmanned Aircraft Systems owned by the University of California are covered.
+
+## Filing a Claim
+To file a claim, contact your campus Risk Manager.  Please prepare the following:
+
+-	Copy of the post-flight report (through UC Drones or other means of compliance)
+-	Photographs of damaged equipment
+-	Copy of original purchase invoice
+-	Copy of invoice to ship the equipment back the manufacturer 
+-	Copy of repair invoice, if repairable 
+-	Copy of replacement quote, if not repairable
+
+__Ensure your coverage__
+
+-	Attach a copy of your UAS invoice to your UAS registration in UC Drones
+-	Make sure you file your Flight Requests
+-	For recurrent or on-going activity, create a Project application but don’t forget to add flights before you head out.
+-	After an incident, make sure you take pictures of the damage and file a post-flight report.  Add as much detail as possible.

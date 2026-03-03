@@ -1,0 +1,34 @@
+---
+title: "Shielded BVLOS Operations"
+format: html
+---
+
+# Public Safety Organization Shielded Operations Waiver 
+
+The **University of California** was granted a **Public Safety Organization Shielded Operations Waiver for Public Agencies (91.113-2025-00194)**. This unique waiver authorizes **beyond the visual line of sight** of the remote pilot in command (which includes remote teleoperation) that are permitted in operations at or below 200 feet AGL, or within 50 feet of an object in Class G Airspace, and, at or below the UASFM altitudes in Class B, C, D or E (Surface Area) airspace whichever is lower.
+
+This waiver is restricted to **Public Aircraft Operations** and may only be used by:
+ - University of California Police Departments
+ - University of California Fire Departments
+ - University of California Emergency Operations Centers
+
+These operations must support official governmental functions using University-owned aircraft and require prior approval from the UC Center of Excellence on UAS Safety.
+
+## Waiver
+
+Download the waiver here: 
+
+-[Waiver](https://ucdrones.github.io/public-safety/library/91-113-2025-00194-CoW.pdf)
+
+## Requirements
+
+All Remote Pilots in Command intending to operate under this waiver are required to complete the following:
+
+- Register for BVLOS Operations - email [UASsafety@ucmerced.edu](mailto:uassafety@ucmerced.edu?subject=Registration%20for%20BVLOS&body=Please%20register%20me%20for%20BVLOS%20operations%20under%20the%20Shielded%20Operations%20Waiver.%0A%0AName:%20%0AEmail%20Address:%20%0ADepartment:%20%0ACampus:%20)
+- [Part 91 Supplemental Training for Part 107 Remote Pilots](https://ucdrones.github.io/public-safety/trainings/part91b107/index.html)
+- [Shielded Operations Waiver Training](https://ucdrones.github.io/public-safety/trainings/shieldedOps/index.html)
+
+## Post-Flight Documentation
+
+Flight records are required under this waiver. Please email a copy of each flight log to [UASsafety@ucmerced.edu](mailto:uassafety@ucmerced.edu?subject=Post-Flight%20BVLOS%20Operations%20Report&body=This%20email%20is%20to%20report%20BVLOS%20operations%20conducted%20under%20the%20Shielded%20Operations%20Waiver.%0A%0AOperator%20Name:%20%0APIC%20Name:%20%0AEmail%20Address:%20%0ADepartment:%20%0ACampus:%20%0A%0ADate(s)%20of%20Operation:%20%0ALocation(s)%20of%20Operation:%20%0A%0AsUA%20Registration%20Number(s)%20Used:%20%0ATotal%20Flight%20Time%20for%20This%20Operation%20(HH:MM):%20%0AProximity%20Event%20(<500%20ft%20vertical%20and/or%20horizontal%20from%20crewed%20aircraft):%0A- Date%20and%20Time:%20%0A- Closest%20Horizontal%20Distance:%20%0A- Closest%20Vertical%20Distance:%20%0A- Description:%20%0A%0ALoss%20of%20Control%20Event:%0A- Date:%20%0A- Description:%20%0A%0AEmergency/Fly-Away%20Event%20(If%20Applicable):%0A- Nature%20of%20Emergency:%20%0A- Last%20Known%20UA%20Position:%20%0A- Last%20Known%20Altitude:%20%0A- ATC%20Facility%20Contacted:%20%0A- Time%20of%20ATC%20Notification:%20%0A
+)

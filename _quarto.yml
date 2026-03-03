@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Public Safety Portal"
+  navbar:
+    search: true
+  
+  sidebar:
+    logo: images/logo.png
+    title: "UC Drones"
+    style: docked
+    collapse-level: 1
+    contents:
+      - index.qmd
+      - section: "Getting Started"
+        contents:
+          
+          - about.qmd
+      - section: "Operations"
+        contents:
+          - shieldedOps.qmd
+          - insurance.qmd
+      - section: "Program Updates"
+        contents:
+          - updates.qmd
+  
+  page-footer:
+    left: "© 2026 University of California"
+    center: "Public Safety UAS Portal"
+    right:
+      - text: "Contact"
+        href: mailto:uassafety@ucmerced.edu
+      - text: "GitHub"
+        href: https://github.com/ucdrones/public-safety/
+
+
+  
+      
+
+format:
+  html:
+    page-layout: full
+    theme: default # bootstrap 5 default
+    fontsize: 1.1em
+    linestretch: 1.7
+    toc: true
+
+
+
