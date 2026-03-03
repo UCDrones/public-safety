@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "updates.html",
+    "href": "updates.html",
+    "title": "Updates",
+    "section": "",
+    "text": "Setting Up\n\n\n\nQuarto\n\nR\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nBrandon Stark\n\n\nMar 3, 2026\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Program Updates",
+      "Updates"
+    ]
+  },
+  {
+    "objectID": "posts/2026-03-03-Setting-Up/index.html",
+    "href": "posts/2026-03-03-Setting-Up/index.html",
+    "title": "Setting Up",
+    "section": "",
+    "text": "Here is where I will start writing my actual blog post content…"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "UC Drones Public Safety Portal",
+    "section": "",
+    "text": "The UC Center of Excellence on Unmanned Aircraft System Safety has developed this portal of resources for all Public Safety users of Unmanned Aircraft Systems within the University of California.\n\n\nFor submitting UC flight requests and reports, please visit http://ehs.ucop.edu/drones\n\n\n\n\n\n\nWarning\n\n\n\nDJI, Autel, and other drones manufactured in China are banned from use on federally funded projects.\nThe FCC has also prohibited authorization of new foreign‑manufactured drones.\nReview your fleet and projects immediately. Contact the UAS COE with any questions.\n\n\n\n\n\nSend us an email at UASsafety@ucmerced.edu if you’d like to join our UC Drone email listserv\nWant to schedule an online appointment to chat? Use our Booking link\n\nFind a time that works for you and the system will schedule a MS Teams meeting for us.\n\n\n\n\nUnmanned Aircraft System (Drone) Policy - The UC Presidential Policy on the use of Unmanned Aircraft Systems within the University of California.\nDrone Map of California - Map of UC properties, County/City regulations, and public lands.\nNASA ASRS - NASA UAS Safety Reporting",
+    "crumbs": [
+      "UC Drones Public Safety Portal"
+    ]
+  },
+  {
+    "objectID": "index.html#connect-with-us",
+    "href": "index.html#connect-with-us",
+    "title": "UC Drones Public Safety Portal",
+    "section": "",
+    "text": "Send us an email at UASsafety@ucmerced.edu if you’d like to join our UC Drone email listserv\nWant to schedule an online appointment to chat? Use our Booking link\n\nFind a time that works for you and the system will schedule a MS Teams meeting for us.",
+    "crumbs": [
+      "UC Drones Public Safety Portal"
+    ]
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "UC Drones Public Safety Portal",
+    "section": "",
+    "text": "Unmanned Aircraft System (Drone) Policy - The UC Presidential Policy on the use of Unmanned Aircraft Systems within the University of California.\nDrone Map of California - Map of UC properties, County/City regulations, and public lands.\nNASA ASRS - NASA UAS Safety Reporting",
+    "crumbs": [
+      "UC Drones Public Safety Portal"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site2",
+    "crumbs": [
+      "Getting Started",
+      "About"
+    ]
+  },
+  {
+    "objectID": "insurance.html",
+    "href": "insurance.html",
+    "title": "Insurance",
+    "section": "",
+    "text": "The University of California has purchased an Unmanned Aircraft System Liability Policy. This policy has a total of $5 Mil limit including Personal Injury.\nCoverage is automatic for UAS activity that meet the following criteria:\n\nFlight operations are conducted on behalf and sanctioned by the University of California.\nAircraft weight under 55 lbs (at time of takeoff)\nFlight operations are within Visual Line of Sight\nFlight operations are below 400 ft above ground level.\nFlight operations must be conducted within the United States.\n\nAny UAS activity that do not meet the above criteria or operate outside the above criteria must be reported to and approved by the insurance underwriter in order to be covered.\n\n\nThe University of California has extended their UAS liability policy to enable coverage of UAS owned by UC students, staff or faculty used for University Business, including research. Coverage is contingent on compliance with the policy and procedures on UAS usage. This coverage is not intended to cover student organizations or 3rd Party vendors or contractors.\n\n\n\nThe University of California has extended their UAS liability policy to enable coverage of UAS by Campus Police. All coverage is contingent on the UAS activity being sanctioned by the UC.\nAny UAS activity that is not approved by a Designated Local Authority or Systemwide Designated UAS Authority is not covered by this liability insurance.",
+    "crumbs": [
+      "Operations",
+      "Insurance"
+    ]
+  },
+  {
+    "objectID": "insurance.html#ss-personally-owned-UAS-coverage",
+    "href": "insurance.html#ss-personally-owned-UAS-coverage",
+    "title": "Insurance",
+    "section": "",
+    "text": "The University of California has extended their UAS liability policy to enable coverage of UAS owned by UC students, staff or faculty used for University Business, including research. Coverage is contingent on compliance with the policy and procedures on UAS usage. This coverage is not intended to cover student organizations or 3rd Party vendors or contractors.",
+    "crumbs": [
+      "Operations",
+      "Insurance"
+    ]
+  },
+  {
+    "objectID": "insurance.html#ss-campus-police-coverage",
+    "href": "insurance.html#ss-campus-police-coverage",
+    "title": "Insurance",
+    "section": "",
+    "text": "The University of California has extended their UAS liability policy to enable coverage of UAS by Campus Police. All coverage is contingent on the UAS activity being sanctioned by the UC.\nAny UAS activity that is not approved by a Designated Local Authority or Systemwide Designated UAS Authority is not covered by this liability insurance.",
+    "crumbs": [
+      "Operations",
+      "Insurance"
+    ]
+  },
+  {
+    "objectID": "insurance.html#filing-a-claim",
+    "href": "insurance.html#filing-a-claim",
+    "title": "Insurance",
+    "section": "Filing a Claim",
+    "text": "Filing a Claim\nTo file a claim, contact your campus Risk Manager. Please prepare the following:\n\nCopy of the post-flight report (through UC Drones or other means of compliance)\nPhotographs of damaged equipment\nCopy of original purchase invoice\nCopy of invoice to ship the equipment back the manufacturer\nCopy of repair invoice, if repairable\nCopy of replacement quote, if not repairable\n\nEnsure your coverage\n\nAttach a copy of your UAS invoice to your UAS registration in UC Drones\nMake sure you file your Flight Requests\nFor recurrent or on-going activity, create a Project application but don’t forget to add flights before you head out.\nAfter an incident, make sure you take pictures of the damage and file a post-flight report. Add as much detail as possible.",
+    "crumbs": [
+      "Operations",
+      "Insurance"
+    ]
+  },
+  {
+    "objectID": "index.html#uc-drone-web-app",
+    "href": "index.html#uc-drone-web-app",
+    "title": "UC Drones Public Safety Portal",
+    "section": "",
+    "text": "For submitting UC flight requests and reports, please visit http://ehs.ucop.edu/drones\n\n\n\n\n\n\nWarning\n\n\n\nDJI, Autel, and other drones manufactured in China are banned from use on federally funded projects.\nThe FCC has also prohibited authorization of new foreign‑manufactured drones.\nReview your fleet and projects immediately. Contact the UAS COE with any questions.",
+    "crumbs": [
+      "UC Drones Public Safety Portal"
+    ]
+  },
+  {
+    "objectID": "trainings.html",
+    "href": "trainings.html",
+    "title": "Training Modules",
+    "section": "",
+    "text": "Public Safety Organization Shielded Operations Waiver\nThe University of California was granted a Public Safety Organization Shielded Operations Waiver for Public Agencies (91.113-2025-00194). This unique waiver authorizes beyond the visual line of sight of the remote pilot in command (which includes remote teleoperation) that are permitted in operations at or below 200 feet AGL, or within 50 feet of an object in Class G Airspace, and, at or below the UASFM altitudes in Class B, C, D or E (Surface Area) airspace whichever is lower.\nThis waiver is restricted to Public Aircraft Operations and may only be used by: - University of California Police Departments - University of California Fire Departments - University of California Emergency Operations Centers\nThese operations must support official governmental functions using University-owned aircraft and require prior approval from the UC Center of Excellence on UAS Safety.\nAll Remote Pilots in Command (RPICs) intending to operate under this waiver are required to complete the following:\n\nRegister for BVLOS Operations - email UASsafety@ucmerced.edu\nPart 91 Supplemental Training for Part 107 Remote Pilots\nShielded Operations Waiver Training",
+    "crumbs": [
+      "Getting Started",
+      "Training Modules"
+    ]
+  },
+  {
+    "objectID": "shieldedOps.html",
+    "href": "shieldedOps.html",
+    "title": "Shielded BVLOS Operations",
+    "section": "",
+    "text": "The University of California was granted a Public Safety Organization Shielded Operations Waiver for Public Agencies (91.113-2025-00194). This unique waiver authorizes beyond the visual line of sight of the remote pilot in command (which includes remote teleoperation) that are permitted in operations at or below 200 feet AGL, or within 50 feet of an object in Class G Airspace, and, at or below the UASFM altitudes in Class B, C, D or E (Surface Area) airspace whichever is lower.\nThis waiver is restricted to Public Aircraft Operations and may only be used by: - University of California Police Departments - University of California Fire Departments - University of California Emergency Operations Centers\nThese operations must support official governmental functions using University-owned aircraft and require prior approval from the UC Center of Excellence on UAS Safety.\n\n\nDownload the waiver here:\n-Waiver\n\n\n\nAll Remote Pilots in Command intending to operate under this waiver are required to complete the following:\n\nRegister for BVLOS Operations - email UASsafety@ucmerced.edu\nPart 91 Supplemental Training for Part 107 Remote Pilots\nShielded Operations Waiver Training\n\n\n\n\nFlight records are required under this waiver. Please email a copy of each flight log to UASsafety@ucmerced.edu",
+    "crumbs": [
+      "Operations",
+      "Shielded BVLOS Operations"
+    ]
+  },
+  {
+    "objectID": "shieldedOps.html#waiver",
+    "href": "shieldedOps.html#waiver",
+    "title": "Shielded BVLOS Operations",
+    "section": "",
+    "text": "Download the waiver here:\n-Waiver",
+    "crumbs": [
+      "Operations",
+      "Shielded BVLOS Operations"
+    ]
+  },
+  {
+    "objectID": "shieldedOps.html#requirements",
+    "href": "shieldedOps.html#requirements",
+    "title": "Shielded BVLOS Operations",
+    "section": "",
+    "text": "All Remote Pilots in Command intending to operate under this waiver are required to complete the following:\n\nRegister for BVLOS Operations - email UASsafety@ucmerced.edu\nPart 91 Supplemental Training for Part 107 Remote Pilots\nShielded Operations Waiver Training",
+    "crumbs": [
+      "Operations",
+      "Shielded BVLOS Operations"
+    ]
+  },
+  {
+    "objectID": "shieldedOps.html#post-flight-documentation",
+    "href": "shieldedOps.html#post-flight-documentation",
+    "title": "Shielded BVLOS Operations",
+    "section": "",
+    "text": "Flight records are required under this waiver. Please email a copy of each flight log to UASsafety@ucmerced.edu",
+    "crumbs": [
+      "Operations",
+      "Shielded BVLOS Operations"
+    ]
+  }
+]
