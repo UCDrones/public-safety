@@ -1,0 +1,14 @@
+---
+title: "test_update"
+format: html
+description: "Just Checking"
+author:
+  - name: Brandon Stark
+    affiliation: UC Center of Excellence on UAS Safety
+    affiliation-url: https://ucdrones.github.io/
+date: "03-04-2026"
+categories: [Quarto, R, UAS]
+
+---
+
+Another Test

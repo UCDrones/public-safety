@@ -1,0 +1,34 @@
+---
+title: "Initial Website Completed"
+description: "This page can serve as a portal for Public Safety operations support"
+author:
+  - name: Brandon Stark
+    affiliation: UC Center of Excellence on UAS Safety
+    affiliation-url: https://ucdrones.github.io/
+date: "03-04-2026"
+categories: [Quarto, R, UAS]
+page-navigation: true
+sidebar: true
+
+---
+
+
+The initial version of this website is now live.
+
+At this stage, content is intentionally limited. The primary materials currently available focus on **insurance coverage** and **shielded BVLOS operations** applicable to University of California public safety UAS activity.
+
+### Current Content
+
+- **Insurance information**
+  - UC UAS liability coverage
+  - Physical damage coverage
+  - Claim and documentation requirements
+  - Coverage considerations for campus police operations
+
+- **Shielded BVLOS Operations**
+  - UC Public Safety Organization Shielded Operations Waiver
+  - Eligibility and operational scope
+  - Required training and registration
+  - Post‑flight documentation requirements
+
+Additional content will be added incrementally as materials are developed and reviewed. This site is intended to serve as a practical reference point for public safety UAS operations across the UC system.
